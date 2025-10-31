@@ -1,0 +1,1 @@
+git init каталог стал репозиторием git status проверить статус git congig user . name/email /--global определяю автора git commit -m пишу коммит git add . добавляю все в репозиторий git branch создает новый репозиторий git switch переключаюсь на новый репозиторий
